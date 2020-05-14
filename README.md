@@ -35,7 +35,7 @@ Este código de conducta busca promover una interacción colaborativa positiva e
 Esta comunidad no tolera ningún tipo de abuso, algunos ejemplos de comportamiento considerado abusivo y propenso a sanción son:
 
 * Comentarios ofensivos sobre género, identidad de género, expresión, orientación sexual, discapacidades, desordenes mentales, apariencia física, condiciones de embarazo, condiciones laborales, afiliación política, estado civil, edad, raza, nacionalidad de origen, forma del cuerpo, origen étnico, peso, nacionalidad, estado migratorio, lenguaje, religión, o cualquier otra característica de identidad que incluye anti-Indigenous/Nativeness y anti-Blackness.
-* Comentarios no solicitados relacionados al estilo de vida de una persona y sus costumbres, incluídas las relacionadas a la comida, salud, crianza, relaciones, drogas y estatus laboral.
+* Comentarios no solicitados relacionados al estilo de vida de una persona y sus costumbres, incluídas las relacionadas a la comida, salud, crianza, relaciones, medicación y estatus laboral.
 * Deliberadamente hacer un uso equivocado del género, usar pronombres equivocados de manera deliberad o usar nombres rechazados.
 * Imágenes de contenido sexual o un comportamiento no adecuado.
 * Contenido o una conversación con contenido explícito para adultos.
