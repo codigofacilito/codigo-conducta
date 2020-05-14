@@ -70,3 +70,8 @@ Respetaremos la confidencialidad de las solicitudes con el propósito de protege
 ## Reconocimiento
 
 Este código de conducta es una adaptación del "Community Coventant (http://community-covenant.net), version 1.0, disponible en http://community-covenant.net/version/1/0/. El Community Covenant es un esfuerzo de código abierto basado en otros códigos de conducta anterior a este, incluyendo y el Contributor Covenant  (http://contributor-covenant.org/) y el código de coducta para la comunidad LGBTQ en Tech (http://lgbtq.technology/coc.html)
+
+
+## Mejora continua del Código de Conducta
+
+Si consideras que alguna forma de abuso no está siendo considerada como parte del código de conducta, por favor abre un Issue en este repositorio o contacta de manera privada a algún miembro del equipo de CódigoFacilito.
