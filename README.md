@@ -2,6 +2,10 @@
 
 El equipo detrás de CódigoFacilito se compromete a construir una comunidad inclusiva, libre de abuso, basada en una tolerancia 0 a cualquier forma de abuso para cualquier miembro de nuestra comunidad.
 
+Recuerda que el código de conducta busca promover que todos nos sintamos en confianza y seguros de formar parte de esta comunidad, tan pronto respetes a las demás personas de la comunidad, no debería haber ningún problema ❤️ 
+
+Un buen código de conducta que se hace valer, nos beneficia a todos 🎉
+
 
 ## Alcance del código de conducta
 
@@ -58,7 +62,7 @@ Aunque este código de conducta aplica para los espacios de la comunidad, si suf
 
 Con el propósito de proteger a los voluntarios de abuso y desgaste, nos reservamos el derecho de rechazar reportes que creamos que están realizados de mala fé. Reportes con la intención de silenciar críticas serán eliminados sin respuesta.
 
-## Enforcement Process
+## Hacer valer el código de conducta
 
 Cualquier violación al código de conducta que sea reportado, será tratado con seriedad y empatía. Si la seguridad de una persona de la comunidad se ve amenazada, el equipo administrador tomará medidas que se consideren apropiadas, incluído la expulsión permantente y defnitiva de la comunidad. 
 
