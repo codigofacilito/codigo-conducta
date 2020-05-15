@@ -1,8 +1,8 @@
 # Código de Conducta
 
-El equipo detrás de CódigoFacilito se compromete a construir una comunidad inclusiva, libre de abuso, basada en una tolerancia 0 a cualquier forma de abuso para cualquier miembro de nuestra comunidad.
+El equipo detrás de CódigoFacilito se compromete a construir una comunidad inclusiva, libre de abuso, basada en una tolerancia 0 a cualquier forma de agresión para todas las personas de nuestra comunidad.
 
-Recuerda que el código de conducta busca promover que todos nos sintamos en confianza y seguros de formar parte de esta comunidad, tan pronto respetes a las demás personas de la comunidad, no debería haber ningún problema ❤️ 
+El código de conducta busca promover que todos nos sintamos en confianza y seguros de formar parte de esta comunidad, tan pronto respetes a las demás personas de la comunidad, no debería haber ningún problema ❤️ 
 
 Un buen código de conducta que se hace valer, nos beneficia a todos 🎉
 
