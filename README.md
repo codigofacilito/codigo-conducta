@@ -64,7 +64,7 @@ Con el propósito de proteger a los voluntarios de abuso y desgaste, nos reserva
 
 ## Hacer valer el código de conducta
 
-Cualquier violación al código de conducta que sea reportado, será tratado con seriedad y empatía. Si la seguridad de una persona de la comunidad se ve amenazada, el equipo administrador tomará medidas que se consideren apropiadas, incluído la expulsión permantente y defnitiva de la comunidad. 
+Cualquier violación al código de conducta que sea reportado, será tratado con seriedad y empatía. Si la seguridad de una persona de la comunidad se ve amenazada, el equipo administrador tomará medidas que se consideren apropiadas, incluído la expulsión permantente y definitiva de la comunidad. 
 
 En situaciones de menos urgencia, al menos dos administradores del equipo discutirán sobre la ofensa y determinarán una respuesta apropiada, misma que será comunicada de manera privada al ofensor. Sin importar cuál sea la resolución, está decisión será considerada definitiva.
 En situaciones de menos urgencia, al menos dos administradores del equipo discutirán sobre la ofensa y determinarán una respuesta apropiada, misma que será comunicada de manera privada al ofensor. Sin importar cuál sea la resolución, está decisión será considerada definitiva.
