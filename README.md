@@ -40,12 +40,12 @@ Esta comunidad no tolera ningún tipo de abuso, algunos ejemplos de comportamien
 * Imágenes de contenido sexual o un comportamiento no adecuado.
 * Contenido o una conversación con contenido explícito para adultos.
 * Contacto físico o contacto físico simulado.
-* Amenzas de violencia
+* Amenazas de violencia.
 * Incitamiento a la violencia hacia un grupo o un individuo, incluído motivar a una persona a cometer suicidio o a lastimarse.
-* Intimidación deliberada
+* Intimidación deliberada.
 * Stalking o seguimiento no consentido en internet o fuera de.
 * Amenazas o abuso a través de fotografías y grabaciones, incluída el almacenamiento de la actividad en línea con el propósito de amenazar.
-* Interrupciones constantes en medio de una discusión
+* Interrupciones constantes en medio de una discusión.
 * Atención sexual no solicitida.
 * Patrones de contacto social no apropiados, tales como solicitar o asumir niveles inapropiados de intimidad con otr@s.
 * Reiteraciones de comunicación uno a uno, después de una solicitud de cese.
@@ -54,26 +54,25 @@ Esta comunidad no tolera ningún tipo de abuso, algunos ejemplos de comportamien
 Para dudas adicionales o preocupaciones acerca de algún conflicto o inconveniente por favor contactar a cualquier miembro del equipo de CódigoFacilito.
 
 ## Reporte de violaciones al código de conducta
-Si eres víctima de un comportamiento abusico o de acoso de algún miembro de la comunidad, puedes alertar a algún miembro del equipo de CódigoFacilito a través de nuestras redes sociales o al correo de soporte en ayuda@codigofacilito.com. Si la persona involucrada en el incidente es parte del equipo de CódigoFacilito, no será involucrada en el proceso para resolver el incidente.
+Si eres víctima de un comportamiento abusivo o de acoso de algún miembro de la comunidad, puedes alertar a algún miembro del equipo de CódigoFacilito a través de nuestras redes sociales o al correo de soporte en ayuda@codigofacilito.com. Si la persona involucrada en el incidente es parte del equipo de CódigoFacilito, no será involucrada en el proceso para resolver el incidente.
 
 El equipo de CódigoFacilito responderá tan pronto sea posible. Si no recibes una respuesta pronta del equipo, por favor, pon tu seguridad personal y bienestar primero.
 
 Aunque este código de conducta aplica para los espacios de la comunidad, si sufres de un incidente de abuso de parte de uno de los miembros de la comunidad, fuera de estos espacios, también nos gustaría saberlo. Tomaremos todos los reportes de incidentes que sean realizados de buena fe, con seriedad, especialmente aquellos provenientes del equipo administrador. Esto incluye abuso fuera de nuestros espacios o abuso que haya sucedido en cualquier momento. El equipo administrador se reserva el derecho de excluir a personas de la comunidad, basándonos en su comportamiento pasado, o en comportamiento fuera de nuestros espacios, incluído a personas que no forman parte de la comunidad.
 
-Con el propósito de proteger a los voluntarios de abuso y desgaste, nos reservamos el derecho de rechazar reportes que creamos que están realizados de mala fé. Reportes con la intención de silenciar críticas serán eliminados sin respuesta.
+Con el propósito de proteger a los voluntarios de abuso y desgaste, nos reservamos el derecho de rechazar reportes que creamos que están realizados de mala fe. Reportes con la intención de silenciar críticas serán eliminados sin respuesta.
 
 ## Hacer valer el código de conducta
 
 Cualquier violación al código de conducta que sea reportado, será tratado con seriedad y empatía. Si la seguridad de una persona de la comunidad se ve amenazada, el equipo administrador tomará medidas que se consideren apropiadas, incluído la expulsión permantente y definitiva de la comunidad. 
 
 En situaciones de menos urgencia, al menos dos administradores del equipo discutirán sobre la ofensa y determinarán una respuesta apropiada, misma que será comunicada de manera privada al ofensor. Sin importar cuál sea la resolución, está decisión será considerada definitiva.
-En situaciones de menos urgencia, al menos dos administradores del equipo discutirán sobre la ofensa y determinarán una respuesta apropiada, misma que será comunicada de manera privada al ofensor. Sin importar cuál sea la resolución, está decisión será considerada definitiva.
 
 Respetaremos la confidencialidad de las solicitudes con el propósito de proteger a las víctimas de abuso. 
 
 ## Reconocimiento
 
-Este código de conducta es una adaptación del "Community Coventant (http://community-covenant.net), version 1.0, disponible en http://community-covenant.net/version/1/0/. El Community Covenant es un esfuerzo de código abierto basado en otros códigos de conducta anterior a este, incluyendo y el Contributor Covenant  (http://contributor-covenant.org/) y el código de coducta para la comunidad LGBTQ en Tech (http://lgbtq.technology/coc.html)
+Este código de conducta es una adaptación del "Community Covenant (http://community-covenant.net), version 1.0, disponible en http://community-covenant.net/version/1/0/. El Community Covenant es un esfuerzo de código abierto basado en otros códigos de conducta anterior a este, incluyendo y el Contributor Covenant  (http://contributor-covenant.org/) y el código de coducta para la comunidad LGBTQ en Tech (http://lgbtq.technology/coc.html)
 
 
 ## Mejora continua del Código de Conducta
