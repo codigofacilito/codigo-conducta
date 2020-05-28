@@ -78,4 +78,4 @@ Este código de conducta es una adaptación del "Community Covenant (http://comm
 
 ## Mejora continua del Código de Conducta
 
-Si consideras que alguna forma de abuso no está siendo considerada como parte del código de conducta, por favor abre un Issue en este repositorio o contacta de manera privada a algún miembro del equipo de CódigoFacilito.
+Si consideras que alguna forma de abuso no está siendo considerada como parte del código de conducta, por favor abre un [issue](https://github.com/codigofacilito/codigo-conducta/issues) en este repositorio o contacta de manera privada a algún miembro del equipo de CódigoFacilito.
