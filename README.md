@@ -17,6 +17,7 @@ Este código de conducta aplica a todos los espacios bajo el control del equipo 
 * Otros que apliquen
 
 ## Aplicación del código de conducta
+
 Los administradores y el equipo de CódigoFacilito se comprometen a respetar y hacer valor el código de conducta para construir una comundiad libre de abuso y un espacio seguro para todas las personas.
 
 En ese sentido, quien viole el código de conducta podrá ser sancionado o expulsado por completo de la comunidad.
@@ -32,6 +33,7 @@ Este código de conducta busca promover una interacción colaborativa positiva e
 * Demostrar empatía hacía las demás personas de la comunidad
 
 ## Postura anti abuso
+
 Esta comunidad no tolera ningún tipo de abuso, algunos ejemplos de comportamiento considerado abusivo y propenso a sanción son:
 
 * Comentarios ofensivos sobre género, identidad de género, expresión, orientación sexual, discapacidades, desordenes mentales, apariencia física, condiciones de embarazo, condiciones laborales, afiliación política, estado civil, edad, raza, nacionalidad de origen, forma del cuerpo, origen étnico, peso, nacionalidad, estado migratorio, lenguaje, religión, o cualquier otra característica de identidad que incluye anti-Indigenous/Nativeness y anti-Blackness.
@@ -54,6 +56,7 @@ Esta comunidad no tolera ningún tipo de abuso, algunos ejemplos de comportamien
 Para dudas adicionales o preocupaciones acerca de algún conflicto o inconveniente por favor contactar a cualquier miembro del equipo de CódigoFacilito.
 
 ## Reporte de violaciones al código de conducta
+
 Si eres víctima de un comportamiento abusivo o de acoso de algún miembro de la comunidad, puedes alertar a algún miembro del equipo de CódigoFacilito a través de nuestras redes sociales o al correo de soporte en ayuda@codigofacilito.com. Si la persona involucrada en el incidente es parte del equipo de CódigoFacilito, no será involucrada en el proceso para resolver el incidente.
 
 El equipo de CódigoFacilito responderá tan pronto sea posible. Si no recibes una respuesta pronta del equipo, por favor, pon tu seguridad personal y bienestar primero.
