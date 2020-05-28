@@ -6,14 +6,13 @@ El código de conducta busca promover que todos nos sintamos en confianza y segu
 
 Un buen código de conducta que se hace valer, nos beneficia a todos 🎉
 
-
 ## Alcance del código de conducta
 
 Este código de conducta aplica a todos los espacios bajo el control del equipo detrás de CódigoFacilito, destacando principalmente:
 
-* El foro de ayuda de nuestra plataforma web y sus clientes.
+* El foro de ayuda de nuestra plataforma web y sus clientes
 * Cualquier chat en vídeos publicados o eventos en vivo de CódigoFacilito
-* Espacios creados y/o administrados por CódigoFacilito. Ej. Slack, Discord, etc.
+* Espacios creados y/o administrados por CódigoFacilito. Ej. Slack, Discord, etc
 * Otros que apliquen
 
 ## Aplicación del código de conducta
@@ -76,7 +75,6 @@ Respetaremos la confidencialidad de las solicitudes con el propósito de protege
 ## Reconocimiento
 
 Este código de conducta es una adaptación del "Community Covenant (http://community-covenant.net), version 1.0, disponible en http://community-covenant.net/version/1/0/. El Community Covenant es un esfuerzo de código abierto basado en otros códigos de conducta anterior a este, incluyendo y el Contributor Covenant  (http://contributor-covenant.org/) y el código de coducta para la comunidad LGBTQ en Tech (http://lgbtq.technology/coc.html)
-
 
 ## Mejora continua del Código de Conducta
 
