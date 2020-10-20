@@ -54,6 +54,7 @@ Esta comunidad no tolera ningún tipo de abuso, algunos ejemplos de comportamien
 * Reiteraciones de comunicación uno a uno, después de una solicitud de cese.
 * Difusión de una comunicación privada que no incluya abuso, sin la autorización de las demás personas involucradas.
 * Difusión de materiales y contenidos personales a manera de spam
+* Reiterar comentarios sobre el público que está viendo la tranmimsión o el contenido 
 
 Para dudas adicionales o preocupaciones acerca de algún conflicto o inconveniente por favor contactar a cualquier miembro del equipo de CódigoFacilito.
 
