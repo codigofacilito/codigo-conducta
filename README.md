@@ -2,7 +2,7 @@
 
 El equipo detrás de CódigoFacilito se compromete a construir una comunidad inclusiva, libre de abuso, basada en una tolerancia 0 a cualquier forma de agresión para todas las personas de nuestra comunidad.
 
-El código de conducta busca promover que todos nos sintamos en confianza y seguros de formar parte de esta comunidad, tan pronto respetes a las demás personas de la comunidad, no debería haber ningún problema ❤️ 
+El código de conducta busca promover que todos nos sintamos en confianza y seguros de formar parte de esta comunidad, tan pronto respetes a las demás personas de la comunidad, no debería haber ningún problema ❤️
 
 Un buen código de conducta que se hace valer, nos beneficia a todos 🎉
 
@@ -31,6 +31,8 @@ Este código de conducta busca promover una interacción colaborativa positiva e
 * Enfocarse en lo que es mejor para la comunidad en general
 * Demostrar empatía hacía las demás personas de la comunidad
 
+
+
 ## Postura anti abuso
 
 Esta comunidad no tolera ningún tipo de abuso, algunos ejemplos de comportamiento considerado abusivo y propenso a sanción son:
@@ -51,6 +53,7 @@ Esta comunidad no tolera ningún tipo de abuso, algunos ejemplos de comportamien
 * Patrones de contacto social no apropiados, tales como solicitar o asumir niveles inapropiados de intimidad con otr@s.
 * Reiteraciones de comunicación uno a uno, después de una solicitud de cese.
 * Difusión de una comunicación privada que no incluya abuso, sin la autorización de las demás personas involucradas.
+* Difusión de materiales y contenidos personales a manera de spam
 
 Para dudas adicionales o preocupaciones acerca de algún conflicto o inconveniente por favor contactar a cualquier miembro del equipo de CódigoFacilito.
 
@@ -66,11 +69,11 @@ Con el propósito de proteger a los voluntarios de abuso y desgaste, nos reserva
 
 ## Hacer valer el código de conducta
 
-Cualquier violación al código de conducta que sea reportado, será tratado con seriedad y empatía. Si la seguridad de una persona de la comunidad se ve amenazada, el equipo administrador tomará medidas que se consideren apropiadas, incluído la expulsión permantente y definitiva de la comunidad. 
+Cualquier violación al código de conducta que sea reportado, será tratado con seriedad y empatía. Si la seguridad de una persona de la comunidad se ve amenazada, el equipo administrador tomará medidas que se consideren apropiadas, incluído la expulsión permantente y definitiva de la comunidad.
 
 En situaciones de menos urgencia, al menos dos administradores del equipo discutirán sobre la ofensa y determinarán una respuesta apropiada, misma que será comunicada de manera privada al ofensor. Sin importar cuál sea la resolución, está decisión será considerada definitiva.
 
-Respetaremos la confidencialidad de las solicitudes con el propósito de proteger a las víctimas de abuso. 
+Respetaremos la confidencialidad de las solicitudes con el propósito de proteger a las víctimas de abuso.
 
 ## Reconocimiento
 
